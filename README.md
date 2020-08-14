@@ -6,8 +6,8 @@ This was pretty straightforward except for installing and getting [Magick++](htt
 
 Sample Image: 
 
-![Image of mad Kanna](ascii/kanna_mad.png)
+<img src="ascii/kanna_mad.png" width="300">
 
 ASCII version:
 
-![ascii kanna](ascii/ascii_kanna.png)
+<img src="ascii/ascii_kanna.png" width="300">
