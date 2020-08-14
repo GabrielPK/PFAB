@@ -10,4 +10,4 @@ Sample Image:
 
 ASCII version:
 
-<img src="ascii/ascii_kanna.png" width="300">
+<img src="ascii/ascii_kanna.jpg" width="300">
