@@ -6,7 +6,7 @@ This was pretty straightforward except for installing and getting [Magick++](htt
 
 Sample Image: 
 
-![Image of mad Kanna](https://raw.githubusercontent.com/GabrielPK/PFAB/master/ascii/kanna_mad.png)
+![Image of mad Kanna](ascii/kanna_mad.png)
 
 ASCII version:
 
